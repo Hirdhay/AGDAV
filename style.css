@@ -110,7 +110,7 @@
 }
 
 .firstsection{
-    height: 1%;
+    height: 170vh;
 }
 
 .box-main{
@@ -124,7 +124,7 @@
     height: 80%;
 }
 .firsthalf{
-    width: 76%;
+    width: 75%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -143,12 +143,12 @@
 }
 
 .text-big{
-    font-size: 55px;
+    font-size: 50px;
     color: darkseagreen;
 }
 
 .text-small{
-    font-size: 26px;
+    font-size: 24px;
     color: antiquewhite;
 }
 
