@@ -63,48 +63,48 @@
     border-radius: 9px;
 }
 .background7{
-    background: rgba(0, 0, 0, 0.7) url('/image/crn.img');
+    background: rgba(0, 0, 0, 0.7) url('crn.img');
     background-size: cover;
     background-blend-mode: darken;
 }
 .background8{
-    background: rgba(0, 0, 0, 0.7) url('/image/fod.jpg');
+    background: rgba(0, 0, 0, 0.7) url('fod.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
 
 .background6{
-    background: rgba(0, 0, 0, 0.7) url('/image/htb.jpg');
+    background: rgba(0, 0, 0, 0.7) url('htb.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
 
 .background2{
-    background: rgba(0, 0, 0, 0.7) url('/image/gob.jpg');
+    background: rgba(0, 0, 0, 0.7) url('gob.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
 
 .background3{
-    background: rgba(0, 0, 0, 0.7) url('/image/sar.jpg');
+    background: rgba(0, 0, 0, 0.7) url('sar.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
 
 .background4{
-    background: rgba(0, 0, 0, 0.7) url('/image/yxz.jpg');
+    background: rgba(0, 0, 0, 0.7) url('yxz.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
 
 .background5{
-    background: rgba(0, 0, 0, 0.7) url('/image/shp.jpg');
+    background: rgba(0, 0, 0, 0.7) url('shp.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
 
 .background{
-    background: rgba(0, 0, 0, 0.7) url('/image/img.jpg');
+    background: rgba(0, 0, 0, 0.7) url('img.jpg');
     background-size: cover;
     background-blend-mode: darken;
 }
@@ -295,7 +295,7 @@
     }
 
     .background{
-        background: rgba(0, 0, 0, 0.7) url('/image/img.jpg');
+        background: rgba(0, 0, 0, 0.7) url('img.jpg');
         background-size: cover;
         background-blend-mode: darken;
     }
